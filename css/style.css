@@ -9,6 +9,10 @@ body {
 }
 
 .d-flex {
-    padding-top: 35%;
+    padding-top: 10%;
+}
+
+.ownLogo {
+    padding-bottom: 2em;
 }
 
